@@ -39,3 +39,41 @@ The dataset contains information related to housing markets, including:
 - Matplotlib
 - Seaborn
 - Scikit-learn
+
+### Phase 2 Tasks
+
+- Performed 1D Statistical Analysis
+- Calculated statistical measures such as:
+  - Mean
+  - Median
+  - Standard Deviation
+  - Variance
+  - Minimum
+  - Maximum
+  - Skewness
+- Created distribution and box plot visualizations
+- Performed 2D Statistical Analysis
+- Calculated correlation and covariance between variables
+- Performed linear regression analysis
+- Created scatter plots and regression visualizations
+- Performed 3D Statistical Analysis
+- Created 3D scatter plots using multiple variables
+- Analyzed correlations among three variables
+- Performed K-Means Clustering
+- Applied data standardization before clustering
+- Used the Elbow Method to determine the number of clusters
+- Analyzed and visualized the resulting clusters
+- Performed Hierarchical Clustering
+- Created a hierarchical clustering dendrogram
+- Applied Agglomerative Clustering
+- Analyzed and visualized the resulting clusters
+
+## Libraries Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- SciPy
+  
