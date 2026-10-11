@@ -76,4 +76,13 @@ The dataset contains information related to housing markets, including:
 - Seaborn
 - Scikit-learn
 - SciPy
-  
+
+
+## Phase 3(a) task - PCA
+- Standardization: Scaled the numerical features before PCA.
+- Dimensionality reduction: Transformed five original features into five principal components.
+- Explained variance: Identified how much variation each component captures.
+- Component selection: Used cumulative explained variance to decide how many components to retain.
+- Visualization: Plotted the first two principal components to inspect the data in two dimensions.
+- Feature contributions: Examined the PCA loadings to understand which original features influence each component.
+
