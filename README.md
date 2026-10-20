@@ -86,3 +86,28 @@ The dataset contains information related to housing markets, including:
 - Visualization: Plotted the first two principal components to inspect the data in two dimensions.
 - Feature contributions: Examined the PCA loadings to understand which original features influence each component.
 
+
+## Phase 3(b): Simple Linear Regression
+
+- Implemented Simple Linear Regression on the Texas Housing dataset.
+- Selected `sales` as the independent variable and `volume` as the dependent variable.
+- Split the dataset into training (80%) and testing (20%) sets.
+- Trained a Linear Regression model using Scikit-learn.
+- Generated predictions for the test dataset.
+- Evaluated model performance using:
+  - Mean Absolute Error (MAE)
+  - Mean Squared Error (MSE)
+  - Root Mean Squared Error (RMSE)
+  - R-squared (R²) Score
+- Visualized actual data points and the regression line.
+- Displayed the regression equation using the model's intercept and coefficient.
+
+## Libraries Used
+
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+## Conclusion: Simple Linear Regression was used to model the relationship between housing sales and sales volume. The model was trained and evaluated using a train-test split, and its performance was assessed using regression metrics and visualizations.
